@@ -1,2 +1,2 @@
 # card
-tish is my file https://github.com/Altynbubu/card
+tish is my file https://altynbubu.github.io/card/
